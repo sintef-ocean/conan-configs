@@ -1,8 +1,8 @@
 [settings]
-os=Windows
-os_build=Windows
+os=Noos
+os_build=Noos
 arch=x86_64
 arch_build=x86_64
-compiler=msvc
-compiler.version=193
+compiler=nocomp
+compiler.version=0
 build_type=Release
