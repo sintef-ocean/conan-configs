@@ -7,4 +7,4 @@ compiler.version=11
 compiler.libcxx=libstdc++11
 
 [conf]
-tools.build:compiler_executables= {"c": "/usr/bin/clang", "cpp": "/usr/bin/clang++"}
+tools.build:compiler_executables= {"c": "/usr/local/bin/clang", "cpp": "/usr/local/bin/clang++"}
