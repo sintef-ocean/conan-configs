@@ -1,8 +1,0 @@
-[settings]
-os=Noos
-os_build=Noos
-arch=x86_64
-arch_build=x86_64
-compiler=nocomp
-compiler.version=0
-build_type=Release

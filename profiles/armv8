@@ -1,7 +1,8 @@
 [settings]
 os=Linux
-arch=x86_64
+arch=armv8
 build_type=Release
 compiler=gcc
 compiler.version=10
 compiler.libcxx=libstdc++11
+compiler.cppstd=gnu14

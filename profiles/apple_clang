@@ -5,3 +5,4 @@ build_type=Release
 compiler=apple-clang
 compiler.version=14
 compiler.libcxx=libc++
+compiler.cppstd=gnu14
